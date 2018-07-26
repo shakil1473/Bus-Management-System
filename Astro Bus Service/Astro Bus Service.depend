@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1444079958 source:h:\astro bus management\astro bus service\main.cpp
+	<iostream>
+
+1444080000 source:h:\astro bus management\astro bus service\bus_animation.cpp
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+
